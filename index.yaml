@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo:
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: "2020-09-27T16:14:21.6943448+09:00"
+    description: A Helm chart for Kubernetes
+    digest: fe75ca8f92b322b26f2c8babd279ad9984b5d1915708fba9c69621979134c6cc
+    name: demo
+    type: application
+    urls:
+    - https://bd1978.github.io/jupyter-notebook/jupyter-notebook-0.1.0.tgz
+    version: 1.0.1
+generated: "2020-09-27T16:14:21.6933805+09:00"
