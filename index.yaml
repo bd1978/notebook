@@ -9,6 +9,6 @@ entries:
     name: demo
     type: application
     urls:
-    - https://bd1978.github.io/jupyter-notebook/jupyter-notebook-0.1.0.tgz
+    - https://bd1978.github.io/notebook/r-notebook.tgz
     version: 1.0.1
 generated: "2020-09-27T16:14:21.6933805+09:00"
